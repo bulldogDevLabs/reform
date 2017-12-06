@@ -1,0 +1,24 @@
+{
+  "name": "reform",
+  "version": "1.0.0",
+  "description": "React Forms Made Easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://elosoman@github.com/bulldogDevLabs/reform.git"
+  },
+  "keywords": [
+    "react",
+    "forms",
+    "graphql"
+  ],
+  "author": "bdeptola@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bulldogDevLabs/reform/issues"
+  },
+  "homepage": "https://github.com/bulldogDevLabs/reform#readme"
+}
